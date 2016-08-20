@@ -1,5 +1,6 @@
-# minatjanster
-Task for Minatjanster
+# TV Search
+TV Search is an app that allows you to search movies and series.
+It also allows you to display the content.
 
 ## Features
 
