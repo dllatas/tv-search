@@ -1,0 +1,19 @@
+li {
+    list-style-type: none;
+}
+
+.form-group {
+    display: inline;
+}
+
+.high-episode {
+    background-color: #C8F6A1;
+}
+
+.list-group-item {
+    border: 2px solid black;
+}
+
+#search {
+    margin: 20px;
+}
